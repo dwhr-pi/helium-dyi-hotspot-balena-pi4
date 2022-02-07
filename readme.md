@@ -1,8 +1,9 @@
 ## UPDATE: 04/11/2021 : [copied from helium discord] Any new DIY will not earn HNT. If you build a DIY packet forwarder today, it will only transfer data on the Helium network. There is no plan to resume the alpha program. If you would like to earn HNT, please visit [helium.com/mine](https://www.helium.com/mine).
 
-Take a look at [Data Only Hotspot Setup with balena + Raspberry Pi + RAK2287](https://docs.helium.com/mine-hnt/data-only-guides/balena-data-only-hotspot/)  
-Take a look at [Data Only Hotspot Setup with RAK Concentrator + Raspberry Pi](https://docs.helium.com/mine-hnt/data-only-guides/rak-concentrators)  
-Take a look at [Data Only Hotspot Setup with Dragino PG1301 and Raspberry Pi](https://docs.helium.com/mine-hnt/data-only-guides/dragino-pg1301)  
+Take a look at  
+* [Data Only Hotspot Setup with balena + Raspberry Pi + RAK2287](https://docs.helium.com/mine-hnt/data-only-guides/balena-data-only-hotspot/)  
+* [Data Only Hotspot Setup with RAK Concentrator + Raspberry Pi](https://docs.helium.com/mine-hnt/data-only-guides/rak-concentrators)  
+* [Data Only Hotspot Setup with Dragino PG1301 and Raspberry Pi](https://docs.helium.com/mine-hnt/data-only-guides/dragino-pg1301)  
 
 
 ## Build your own helium hotspot ( miner + packet forwader ) on Raspberry pi 4 using BalenaOS
