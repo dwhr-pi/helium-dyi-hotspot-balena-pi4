@@ -18,8 +18,8 @@ Take a look at
 - USBC power adapter [link](https://www.amazon.com/gp/product/B07TYQRXTK)
 - 64GB Micro SD card [link](https://www.amazon.com/gp/product/B07NY4L4VZ)
 - RAK2245 Pi HAT [link](https://www.amazon.com/gp/product/B085W5ZL4F) - While purchasing please check frequency of your country here at [Frequencies on the Helium Network & Frequency Plans by Country](https://docs.helium.com/lorawan-on-helium/frequency-plans), before you buy. 
-  [RAK2245 Pi HAT at Google Search](https://www.google.com/search?q=RAK2245+Pi+HAT)
-  [[RAK2245 Pi HAT EU868](https://www.stromenergie.at/shop/RAK-Wireless-RAK2245-Pi-HAT-is-a-LoRa-Gateway-with-Raspberry-Pi-form-factor-based-on-SX1301-Pre-install-LoRa-gateway-OSRAK831-upgrade-EU868-Version)
+  [RAK2245 Pi HAT at Google Search](https://www.google.com/search?q=RAK2245+Pi+HAT) and at fallowing here is the EU868 and in other Versions are aviable. 
+  [RAK2245 Pi HAT EU868](https://www.stromenergie.at/shop/RAK-Wireless-RAK2245-Pi-HAT-is-a-LoRa-Gateway-with-Raspberry-Pi-form-factor-based-on-SX1301-Pre-install-LoRa-gateway-OSRAK831-upgrade-EU868-Version)
   
   In Germany and other Countrys we use, 868 MHz... 
   
