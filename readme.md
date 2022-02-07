@@ -13,7 +13,7 @@ Take a look at
 ![IMG_3115](https://user-images.githubusercontent.com/9275193/88193059-3985d480-cc0b-11ea-8178-a88d002fa1aa.jpg)
 
 ## Before you start!
-Next Helium Hotspot near by you in [Helium Explorer](https://explorer.helium.com/) there you can see the earnings of them. 
+Check next Helium Hotspot near by you in [Helium Explorer](https://explorer.helium.com/) there you can see the earnings of them. 
 
 
 #### Hardwares you need
@@ -26,8 +26,9 @@ Next Helium Hotspot near by you in [Helium Explorer](https://explorer.helium.com
   
   In Germany and few other Countrys we use: EU868 with 868 MHz... 
   
-  Or: (not recomend, only for your intresset)
-  [RAK831 LPWAN Gateway Concentrator Module](https://store.rakwireless.com/products/rak831-gateway-module), [Raspberry Converter Board](https://store.rakwireless.com/products/raspberry-converter-board), [Fiberglass Antenna Kit for Helium Hotspot](https://store.rakwireless.com/collections/chinese-new-year-2022-sale/products/fiber-glass-antenna-kit-for-helium-hotspot?variant=39705923846342) oder [Fiberglass Antenna](https://store.rakwireless.com/products/fiber-glass-antenna?variant=39705894813894).
+  Or: (not recomend, only for your intresset)  
+* [RAK831 LPWAN Gateway Concentrator Module](https://store.rakwireless.com/products/rak831-gateway-module), [Raspberry Converter Board](https://store.rakwireless.com/products/raspberry-converter-board), [Fiberglass Antenna Kit for Helium Hotspot](https://store.rakwireless.com/collections/chinese-new-year-2022-sale/products/fiber-glass-antenna-kit-for-helium-hotspot?variant=39705923846342) oder [Fiberglass Antenna](https://store.rakwireless.com/products/fiber-glass-antenna?variant=39705894813894). 
+* [LILYGO®TTGO T-SX1302 868 MHz LORA-Konzentrator LoRaWAN Gateway für Raspberry Pi TTGO LORA32](https://www.banggood.com/de/LILYGO-TTGO-Raspberry-Pi-for-LORA32-T-SX1302-868MHz-LORA-Concentrator-LoRaWAN-Gateway-Module-p-1777383.html?rmmds=detail-topright-recommendation&cur_warehouse=CN&trace_id=e5f81644197806733)  
 
 #### Softwares you need
 - Free Balena Cloud account [link](https://dashboard.balena-cloud.com/login)
