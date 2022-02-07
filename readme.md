@@ -1,4 +1,4 @@
-## UPDATE: 04/11/2021 : [copied from helium discord] Any new DIY will not earn HNT. If you build a DIY packet forwarder today, it will only transfer data on the Helium network. There is no plan to resume the alpha program. If you would like to earn HNT, please visit helium.com/mine.
+## UPDATE: 04/11/2021 : [copied from helium discord] Any new DIY will not earn HNT. If you build a DIY packet forwarder today, it will only transfer data on the Helium network. There is no plan to resume the alpha program. If you would like to earn HNT, please visit [helium.com/mine](https://www.helium.com/mine).
 
 ## Build your own helium hotspot ( miner + packet forwader ) on Raspberry pi 4 using BalenaOS
 
