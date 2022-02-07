@@ -17,7 +17,8 @@ Take a look at
 - Raspberry Pi 4 [link](https://www.amazon.com/gp/product/B07TC2BK1X)
 - USBC power adapter [link](https://www.amazon.com/gp/product/B07TYQRXTK)
 - 64GB Micro SD card [link](https://www.amazon.com/gp/product/B07NY4L4VZ)
-- RAK2245 Pi HAT [link](https://www.amazon.com/gp/product/B085W5ZL4F) While purchasing please check frequency of your country.
+- RAK2245 Pi HAT [link](https://www.amazon.com/gp/product/B085W5ZL4F) While purchasing please check frequency of your country. 
+  [RAK2245 Pi HAT at Google Search](https://www.google.com/search?q=RAK2245+Pi+HAT)
 
 #### Softwares you need
 - Free Balena Cloud account [link](https://dashboard.balena-cloud.com/login)
