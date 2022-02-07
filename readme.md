@@ -38,7 +38,7 @@ Check next Helium Hotspot near by you in [Helium Explorer](https://explorer.heli
 - jq [install](https://stedolan.github.io/jq/download/)
 
 
-I found Videos at [YouTube BE](https://youtu.be/9pxJuoziaG0) or [Youtube](https://www.youtube.com/watch?v=9pxJuoziaG0) and take a look around at this channel to know about build your own devices for Helium. 
+I found Videos at [YouTube BE](https://youtu.be/9pxJuoziaG0) or [Youtube](https://www.youtube.com/watch?v=9pxJuoziaG0) and take a look around at this channel to know more about build your own devices for Helium. 
 
 ## Deploy with balena
 
