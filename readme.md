@@ -19,6 +19,12 @@ Take a look at
 - 64GB Micro SD card [link](https://www.amazon.com/gp/product/B07NY4L4VZ)
 - RAK2245 Pi HAT [link](https://www.amazon.com/gp/product/B085W5ZL4F) - While purchasing please check frequency of your country here at [Frequencies on the Helium Network & Frequency Plans by Country](https://docs.helium.com/lorawan-on-helium/frequency-plans), before you buy. 
   [RAK2245 Pi HAT at Google Search](https://www.google.com/search?q=RAK2245+Pi+HAT)
+  [[RAK2245 Pi HAT EU868](https://www.stromenergie.at/shop/RAK-Wireless-RAK2245-Pi-HAT-is-a-LoRa-Gateway-with-Raspberry-Pi-form-factor-based-on-SX1301-Pre-install-LoRa-gateway-OSRAK831-upgrade-EU868-Version)
+  
+  In Germany and other Countrys we use, 868 MHz... 
+  
+  Or: (not recomend, only for your intresset)
+  [RAK831 LPWAN Gateway Concentrator Module](https://store.rakwireless.com/products/rak831-gateway-module), [Raspberry Converter Board](https://store.rakwireless.com/products/raspberry-converter-board), [Fiberglass Antenna Kit for Helium Hotspot](https://store.rakwireless.com/collections/chinese-new-year-2022-sale/products/fiber-glass-antenna-kit-for-helium-hotspot?variant=39705923846342) oder [Fiberglass Antenna](https://store.rakwireless.com/products/fiber-glass-antenna?variant=39705894813894).
 
 #### Softwares you need
 - Free Balena Cloud account [link](https://dashboard.balena-cloud.com/login)
