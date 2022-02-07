@@ -33,6 +33,9 @@ Take a look at
 - Balena CLI  [install](https://github.com/balena-io/balena-cli/blob/master/INSTALL.md)
 - jq [install](https://stedolan.github.io/jq/download/)
 
+
+I found a Video at [YouTube BE](https://youtu.be/9pxJuoziaG0) or [Youtube](https://www.youtube.com/watch?v=9pxJuoziaG0)
+
 ## Deploy with balena
 
 Running Helium on [balenaCloud](https://balena.io) is a breeze. Just click the Deploy with balena button below:
