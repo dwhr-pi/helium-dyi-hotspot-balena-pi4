@@ -1,6 +1,5 @@
 Intressantes, Roboter mit LONG RANGE WIDE AREA NETWORK (LoRaWAN) – GATEWAY steuern: [](https://custom-build-robots.com/raspberry-pi-elektronik/long-range-wide-area-network-lorawan-gateway/10588)  
-* [Raspberry PI iC880A and LinkLab Lora Gateway Shield](https://github.com/ch2i/iC880A-Raspberry-PI)  
-* [DWHR-Pi](https://github.com/dwhr-pi/iC880A-Raspberry-PI)
+* [Raspberry PI iC880A and LinkLab Lora Gateway Shield](https://github.com/ch2i/iC880A-Raspberry-PI) oder auf [DWHR-Pi](https://github.com/dwhr-pi/iC880A-Raspberry-PI)
 
 
 
