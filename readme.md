@@ -1,3 +1,10 @@
+Intressantes, Roboter mit LONG RANGE WIDE AREA NETWORK (LoRaWAN) – GATEWAY steuern: [](https://custom-build-robots.com/raspberry-pi-elektronik/long-range-wide-area-network-lorawan-gateway/10588)  
+* [Raspberry PI iC880A and LinkLab Lora Gateway Shield](https://github.com/ch2i/iC880A-Raspberry-PI)  
+* [DWHR-Pi](https://github.com/dwhr-pi/iC880A-Raspberry-PI)
+
+
+
+
 ## UPDATE: 04/11/2021 : [copied from helium discord] Any new DIY will not earn HNT. If you build a DIY packet forwarder today, it will only transfer data on the Helium network. There is no plan to resume the alpha program. If you would like to earn HNT, please visit [helium.com/mine](https://www.helium.com/mine).
 
 Take a look at  
